@@ -2,7 +2,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Main {
-    private static final String APP_NAME = "LogAnalyzer_785803";
+    private static final String APP_NAME = "LogAnalyzer_66f830";
     private static final String VERSION = "1.5.0";
 
     private String name;
