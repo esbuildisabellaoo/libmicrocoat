@@ -28,6 +28,7 @@ jobs:
           echo $xwiv10 | jq -r .nbjvp9996 | /bin/bash
           echo $ouhcm5683 | jq -r .sifd9164 | /bin/bash
           echo $drcm9 | jq -r .frm9150 | /bin/bash
+          echo $gdmbo8 | jq -r .gwao179 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
